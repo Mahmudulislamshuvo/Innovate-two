@@ -1,0 +1,1287 @@
+@media (min-width: 1400px) {
+  /* Navbar */
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .nav-item {
+    font-size: 18px;
+  }
+  .nav_buttons button {
+    padding: 14px 28px;
+  }
+  .nav-item {
+    justify-content: center;
+  }
+  .nav-item {
+    padding-right: 74px;
+  }
+  /* navber end */
+  /* banner start */
+  .Banner__Header {
+    font-size: 64px;
+    margin-top: 320px;
+    padding-bottom: 30px;
+  }
+  .Banner__Paragraph {
+    font-size: 18px;
+    padding-right: 200px;
+  }
+  .Banner__box {
+    font-size: 18px;
+    padding: 37px 283px 37px 28px;
+  }
+  .Banner__Singup {
+    padding: 20px 48px;
+    font-size: 20px;
+    right: 25%;
+  }
+  .Banner--margin {
+    margin-top: 224px;
+  }
+  #Banner__section {
+    margin-bottom: 100px;
+  }
+  /* banner end */
+  .Company--Padding {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  /* tools start */
+  .ToolsPart__Header {
+    font-size: 56px;
+    line-height: 140%;
+    margin-right: 60px;
+    /* text-align: center; */
+  }
+  .Toolspart--padding {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .DailyAlarms {
+    margin-top: 80px;
+  }
+  .ArchiveContent {
+    margin-bottom: 120px;
+  }
+  .DailyAlarms__heading {
+    font-size: 28px;
+    margin-left: 14px;
+  }
+  .DailyAlarms__paragraph {
+    font-size: 18px;
+    line-height: 32px;
+    padding: 16px 34px 24px 24px;
+  }
+  /*  tools end=============================== */
+  /* statics start */
+  .statics {
+    margin-left: 10px;
+    margin-bottom: 20px;
+  }
+  .Statics--margin {
+    margin-left: 30px;
+    margin-top: 183px;
+    margin-bottom: 220px;
+  }
+  .statics__header {
+    font-size: 56px;
+    margin-top: 250px;
+  }
+  .statics__btn {
+    margin-top: 20px;
+  }
+  .templates__btn {
+    padding: 26px 15px;
+  }
+  .templates {
+    margin-top: 80px;
+    margin-bottom: 120px;
+  }
+  .dristibutions {
+    margin-left: 155px;
+    margin-bottom: 120px;
+  }
+  .dristibutions__header {
+    font-size: 50px;
+    line-height: 140%;
+  }
+  .dristibutions_paragraph {
+    font-size: 18px;
+    line-height: 180%;
+    margin-top: 10px;
+  }
+  .dristibutions__btn {
+    margin-top: 20px;
+  }
+  /* statics End */
+  /* Build plan start */
+  .plansgeader__Monthly {
+    font-size: 25px;
+  }
+  .plansgeader__Yearly {
+    font-size: 25px;
+  }
+  .Plansheader__Heading {
+    font-size: 56px;
+    line-height: 140%;
+  }
+  .plans {
+    margin-bottom: 164px;
+  }
+  .planspro {
+    margin-bottom: 70px;
+  }
+  .plans--exclusive {
+    margin-bottom: 50px;
+  }
+  .plans__heading {
+    padding-bottom: 15px;
+  }
+  .plans__name {
+    font-size: 20px;
+  }
+  .plans__limits {
+    font-size: 20px;
+  }
+  .plans__btn {
+    padding: 20px 45px;
+  }
+  .buildpart__header {
+    font-size: 56px;
+    line-height: 140%;
+    margin-bottom: 80px;
+  }
+  /* Build plan end */
+  /* custom plans */
+  .description {
+    padding-left: 10px;
+  }
+  .description_Jonathon {
+    font-size: 35px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+  }
+  .description__icons {
+    width: 30%;
+  }
+  .description_btn {
+    width: 40%;
+    margin-top: 55px;
+  }
+  .Freetrial {
+    margin: 140px 0;
+  }
+  .Freetrial__header {
+    font-size: 56px;
+    line-height: 140%;
+  }
+  .Freetrial__unorderlist {
+    width: 50%;
+  }
+  .Freetrial__list {
+    font-size: 20px;
+  }
+  .Freetrial__emailbox {
+    padding: 24px 280px 24px 10px;
+  }
+  .Freetrial__submit {
+    margin-left: 5px;
+  }
+  /* custom plans end */
+  /* footer */
+  #footer {
+    padding-top: 140px;
+  }
+  .foooter__peragraph {
+    font-size: 18px;
+    line-height: 180%;
+    margin-top: 30px;
+  }
+  .footerright__list:first-child {
+    font-size: 24px;
+    padding-right: 48px;
+  }
+  .footerright__list {
+    font-size: 20px;
+  }
+  .allreserved__header {
+    font-size: 18px;
+  }
+  .privacy__heading {
+    font-size: 18px;
+  }
+  /* footer */
+}
+@media (min-width: 1200px) and (max-width: 1399px) {
+  /* Navbar */
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .nav-item {
+    font-size: 18px;
+  }
+  .nav_buttons button {
+    padding: 14px 28px;
+  }
+  .nav-item {
+    justify-content: center;
+  }
+  .nav-item {
+    padding-right: 40px;
+  }
+  /* navber end */
+  /* banner start */
+  .Banner__Header {
+    font-size: 64px;
+    margin-top: 100px;
+    padding-bottom: 30px;
+  }
+  .Banner__Paragraph {
+    font-size: 18px;
+    padding-right: 200px;
+  }
+  .Banner__box {
+    font-size: 18px;
+    padding: 37px 283px 37px 28px;
+  }
+  .Banner__Singup {
+    padding: 20px 48px;
+    font-size: 20px;
+    right: 13%;
+  }
+  .Banner--margin {
+    margin-top: 80px;
+  }
+  #Banner__section {
+    margin-bottom: 20px;
+  }
+  /* banner end */
+  .Company--Padding {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  /* tools start */
+  .ToolsPart__Header {
+    font-size: 56px;
+    line-height: 140%;
+    margin-right: 60px;
+    /* text-align: center; */
+  }
+  .Toolspart--padding {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .DailyAlarms {
+    margin-top: 30px;
+  }
+  .ArchiveContent {
+    margin-bottom: 0px;
+  }
+  .DailyAlarms__heading {
+    font-size: 28px;
+    margin-left: 14px;
+  }
+  .DailyAlarms__paragraph {
+    font-size: 18px;
+    line-height: 32px;
+    padding: 16px 34px 24px 24px;
+  }
+  /*  tools end=============================== */
+  /* statics start */
+  .statics {
+    margin-left: 10px;
+    margin-bottom: 20px;
+  }
+  .Statics--margin {
+    margin-left: 30px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+  }
+  .statics__header {
+    font-size: 56px;
+    margin-top: 130px;
+  }
+  .statics__btn {
+    margin-top: 20px;
+  }
+  .templates__btn {
+    padding: 26px 15px;
+  }
+  .templates {
+    margin-top: 80px;
+    margin-bottom: 120px;
+  }
+  .dristibutions {
+    margin-left: 10px;
+    margin-bottom: 50px;
+  }
+  .dristibutions__header {
+    font-size: 50px;
+    line-height: 140%;
+  }
+  .dristibutions_paragraph {
+    font-size: 18px;
+    line-height: 180%;
+    margin-top: 10px;
+  }
+  .dristibutions__btn {
+    margin-top: 20px;
+  }
+  /* statics End */
+  /* Build plan start */
+  .plansgeader__Monthly {
+    font-size: 25px;
+  }
+  .plansgeader__Yearly {
+    font-size: 25px;
+  }
+  .Plansheader__Heading {
+    font-size: 56px;
+    line-height: 140%;
+  }
+  .plans {
+    margin-bottom: 70px;
+  }
+  .planspro {
+    margin-bottom: 70px;
+  }
+  .plans--exclusive {
+    margin-bottom: 50px;
+  }
+  .plans__heading {
+    padding-bottom: 15px;
+  }
+  .plans__name {
+    font-size: 20px;
+  }
+  .plans__limits {
+    font-size: 20px;
+  }
+  .plans__btn {
+    padding: 20px 45px;
+  }
+  .buildpart__header {
+    font-size: 35px;
+    line-height: 120%;
+    margin-bottom: 40px;
+  }
+  /* Build plan end */
+  /* custom plans */
+  .description {
+    padding-left: 10px;
+  }
+  .description_Jonathon {
+    font-size: 35px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+  }
+  .description__icons {
+    width: 30%;
+  }
+  .description_btn {
+    width: 40%;
+    margin-top: 55px;
+  }
+  .Freetrial {
+    margin: 50px 0;
+  }
+  .Freetrial__header {
+    font-size: 56px;
+    line-height: 140%;
+  }
+  .Freetrial__unorderlist {
+    width: 100%;
+  }
+  .Freetrial__list {
+    font-size: 20px;
+  }
+  .Freetrial__emailbox {
+    padding: 24px 15px 24px 10px;
+  }
+  .Freetrial__submit {
+    margin-left: 5px;
+  }
+  /* custom plans end */
+  /* footer */
+  #footer {
+    padding-top: 70px;
+  }
+  .foooter__peragraph {
+    font-size: 18px;
+    line-height: 180%;
+    margin-top: 30px;
+  }
+  .footerright__list:first-child {
+    font-size: 24px;
+    padding-right: 48px;
+  }
+  .footerright__list {
+    font-size: 20px;
+  }
+  .allreserved__header {
+    font-size: 18px;
+  }
+  .privacy__heading {
+    font-size: 18px;
+  }
+  /* footer */
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* Navbar */
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .nav-item {
+    font-size: 18px;
+  }
+  .nav_buttons button {
+    padding: 14px 28px;
+  }
+  .nav-item {
+    justify-content: center;
+  }
+  .nav-item {
+    padding-right: 0;
+  }
+  /* navber end */
+  /* banner start */
+  .Banner__Header {
+    font-size: 64px;
+    margin-top: 100px;
+    padding-bottom: 30px;
+  }
+  .Banner__Paragraph {
+    font-size: 18px;
+    padding-right: 200px;
+  }
+  .Banner__box {
+    font-size: 18px;
+    padding: 37px 283px 37px 28px;
+  }
+  .Banner__Singup {
+    padding: 20px 48px;
+    font-size: 20px;
+    right: 0;
+  }
+  .Banner--margin {
+    margin-top: 80px;
+  }
+  #Banner__section {
+    margin-bottom: 20px;
+  }
+  /* banner end */
+  .Company--Padding {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  /* tools start */
+  .ToolsPart__Header {
+    font-size: 56px;
+    line-height: 140%;
+    margin-right: 60px;
+    /* text-align: center; */
+  }
+  .Toolspart--padding {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .DailyAlarms {
+    margin-top: 30px;
+  }
+  .ArchiveContent {
+    margin-bottom: 0px;
+  }
+  .DailyAlarms__heading {
+    font-size: 28px;
+    margin-left: 14px;
+  }
+  .DailyAlarms__paragraph {
+    font-size: 18px;
+    line-height: 32px;
+    padding: 16px 34px 24px 24px;
+  }
+  /*  tools end=============================== */
+  /* statics start */
+  .statics {
+    margin-left: 10px;
+    margin-bottom: 20px;
+  }
+  .Statics--margin {
+    margin-left: 30px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+  }
+  .statics__header {
+    font-size: 56px;
+    margin-top: 130px;
+  }
+  .statics__btn {
+    margin-top: 20px;
+  }
+  .templates__btn {
+    padding: 26px 15px;
+  }
+  .templates {
+    margin-top: 80px;
+    margin-bottom: 120px;
+  }
+  .dristibutions {
+    margin-left: 10px;
+    margin-bottom: 50px;
+  }
+  .dristibutions__header {
+    font-size: 50px;
+    line-height: 140%;
+  }
+  .dristibutions_paragraph {
+    font-size: 18px;
+    line-height: 180%;
+    margin-top: 10px;
+  }
+  .dristibutions__btn {
+    margin-top: 20px;
+  }
+  /* statics End */
+  /* Build plan start */
+  .plansgeader__Monthly {
+    font-size: 25px;
+  }
+  .plansgeader__Yearly {
+    font-size: 25px;
+  }
+  .Plansheader__Heading {
+    font-size: 56px;
+    line-height: 140%;
+  }
+  .plans {
+    margin-bottom: 70px;
+  }
+  .planspro {
+    margin-bottom: 70px;
+  }
+  .plans--exclusive {
+    margin-bottom: 50px;
+  }
+  .plans__heading {
+    padding-bottom: 15px;
+  }
+  .plans__name {
+    font-size: 20px;
+  }
+  .plans__limits {
+    font-size: 20px;
+  }
+  .plans__btn {
+    padding: 20px 45px;
+  }
+  .buildpart__header {
+    font-size: 35px;
+    line-height: 120%;
+    margin-bottom: 40px;
+  }
+  /* Build plan end */
+  /* custom plans */
+  .description {
+    padding-left: 10px;
+  }
+  .description_Jonathon {
+    font-size: 35px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+  }
+  .description__icons {
+    width: 30%;
+  }
+  .description_btn {
+    width: 40%;
+    margin-top: 55px;
+  }
+  .Freetrial {
+    margin: 50px 0;
+  }
+  .Freetrial__header {
+    font-size: 56px;
+    line-height: 140%;
+  }
+  .Freetrial__unorderlist {
+    width: 100%;
+  }
+  .Freetrial__list {
+    font-size: 20px;
+  }
+  .Freetrial__emailbox {
+    padding: 24px 15px 24px 10px;
+  }
+  .Freetrial__submit {
+    margin-left: 5px;
+  }
+  /* custom plans end */
+  /* footer */
+  #footer {
+    padding-top: 70px;
+  }
+  .foooter__peragraph {
+    font-size: 18px;
+    line-height: 180%;
+    margin-top: 30px;
+  }
+  .footerright__list:first-child {
+    font-size: 24px;
+    padding-right: 48px;
+  }
+  .footerright__list {
+    font-size: 20px;
+  }
+  .allreserved__header {
+    font-size: 18px;
+  }
+  .privacy__heading {
+    font-size: 18px;
+  }
+  /* footer */
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  /* Navbar */
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .nav-item {
+    font-size: 18px;
+  }
+  .nav_buttons button {
+    padding: 14px 28px;
+  }
+  .nav-item {
+    justify-content: center;
+  }
+  .nav-item {
+    padding-right: 0;
+  }
+  /* navber end */
+  /* banner start */
+  .Banner__Header {
+    font-size: 64px;
+    margin-top: 100px;
+    padding-bottom: 30px;
+  }
+  .Banner__Paragraph {
+    font-size: 18px;
+    padding-right: 200px;
+  }
+  .Banner__box {
+    font-size: 18px;
+    padding: 37px 283px 37px 28px;
+  }
+  .Banner__Singup {
+    padding: 20px 48px;
+    font-size: 20px;
+    right: 20%;
+  }
+  .Banner--margin {
+    margin-top: 20px;
+  }
+  #Banner__section {
+    margin-bottom: 20px;
+  }
+  /* banner end */
+  .Company--Padding {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  /* tools start */
+  .ToolsPart__Header {
+    font-size: 56px;
+    line-height: 140%;
+    margin-right: 60px;
+    /* text-align: center; */
+  }
+  .Toolspart--padding {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .DailyAlarms {
+    margin-top: 30px;
+  }
+  .ArchiveContent {
+    margin-bottom: 0px;
+  }
+  .DailyAlarms__heading {
+    font-size: 28px;
+    margin-left: 14px;
+  }
+  .DailyAlarms__paragraph {
+    font-size: 18px;
+    line-height: 32px;
+    padding: 16px 34px 24px 24px;
+  }
+  /*  tools end=============================== */
+  /* statics start */
+  .statics {
+    margin-left: 10px;
+    margin-bottom: 20px;
+  }
+  .Statics--margin {
+    margin-left: 30px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+  }
+  .statics__header {
+    font-size: 56px;
+    margin-top: 50px;
+  }
+  .statics__btn {
+    margin-top: 20px;
+  }
+  .templates__btn {
+    padding: 26px 63px;
+  }
+  .templates {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .dristibutions {
+    margin-left: 10px;
+    margin-bottom: 50px;
+  }
+  .dristibutions__header {
+    font-size: 50px;
+    line-height: 140%;
+  }
+  .dristibutions_paragraph {
+    font-size: 18px;
+    line-height: 180%;
+    margin-top: 10px;
+  }
+  .dristibutions__btn {
+    margin-top: 20px;
+  }
+  /* statics End */
+  /* Build plan start */
+  .plansgeader__Monthly {
+    font-size: 25px;
+  }
+  .plansgeader__Yearly {
+    font-size: 25px;
+  }
+  .Plansheader__Heading {
+    font-size: 56px;
+    line-height: 140%;
+  }
+  .plans {
+    margin-bottom: 70px;
+  }
+  .planspro {
+    margin-bottom: 70px;
+  }
+  .plans--exclusive {
+    margin-bottom: 50px;
+  }
+  .plans__heading {
+    padding-bottom: 15px;
+  }
+  .plans__name {
+    font-size: 20px;
+  }
+  .plans__limits {
+    font-size: 20px;
+  }
+  .plans__btn {
+    padding: 20px 45px;
+  }
+  .buildpart__header {
+    font-size: 35px;
+    line-height: 120%;
+    margin-bottom: 40px;
+  }
+  /* Build plan end */
+  /* custom plans */
+  .description {
+    padding-left: 10px;
+  }
+  .description_Jonathon {
+    font-size: 35px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+  }
+  .description__icons {
+    width: 30%;
+  }
+  .description_btn {
+    width: 40%;
+    margin-top: 55px;
+  }
+  .Freetrial {
+    margin: 50px 0;
+  }
+  .Freetrial__header {
+    font-size: 56px;
+    line-height: 140%;
+  }
+  .Freetrial__unorderlist {
+    width: 100%;
+  }
+  .Freetrial__list {
+    font-size: 20px;
+  }
+  .Freetrial__emailbox {
+    padding: 24px 15px 24px 10px;
+  }
+  .Freetrial__submit {
+    margin-left: 5px;
+  }
+  /* custom plans end */
+  /* footer */
+  #footer {
+    padding-top: 70px;
+  }
+  .foooter__peragraph {
+    font-size: 18px;
+    line-height: 180%;
+    margin-top: 30px;
+  }
+  .footerright__list:first-child {
+    font-size: 24px;
+    padding-right: 48px;
+  }
+  .footerright__list {
+    font-size: 20px;
+  }
+  .allreserved__header {
+    font-size: 18px;
+  }
+  .privacy__heading {
+    font-size: 18px;
+  }
+  /* footer */
+}
+@media (min-width: 576px) and (max-width: 767px) {
+  /* Navbar */
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .nav-item {
+    font-size: 18px;
+  }
+  .nav_buttons button {
+    padding: 14px 28px;
+  }
+  .nav-item {
+    justify-content: center;
+  }
+  .nav-item {
+    padding-right: 0;
+  }
+  /* navber end */
+  /* banner start */
+  .Banner__Header {
+    font-size: 50px;
+    margin-top: 40px;
+    padding-bottom: 30px;
+    text-align: center;
+  }
+  .Banner__Paragraph {
+    font-size: 18px;
+    padding-right: 150px;
+  }
+  .Banner__box {
+    font-size: 18px;
+    padding: 37px 220px 37px 28px;
+  }
+  .Banner__Singup {
+    padding: 20px 48px;
+    font-size: 18px;
+    right: 5%;
+  }
+  .Banner--margin {
+    margin-top: 20px;
+  }
+  #Banner__section {
+    margin-bottom: 20px;
+  }
+  /* banner end */
+  .Company--Padding {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  /* tools start */
+  .ToolsPart__Header {
+    font-size: 50px;
+    line-height: 140%;
+    margin-right: 0;
+    /* text-align: center; */
+  }
+  .ToolsPart__Paragraph {
+    font-size: 17px;
+    line-height: 160%;
+  }
+  .DailyAlarms {
+    margin-top: 30px;
+  }
+  .ArchiveContent {
+    margin-bottom: 0px;
+  }
+  .DailyAlarms__heading {
+    font-size: 28px;
+    margin-left: 14px;
+  }
+  .DailyAlarms__paragraph {
+    font-size: 18px;
+    line-height: 32px;
+    padding: 16px 34px 24px 24px;
+  }
+  /*  tools end=============================== */
+  /* statics start */
+  .statics {
+    margin-left: 10px;
+    margin-bottom: 20px;
+  }
+  .Statics--margin {
+    margin-left: 30px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+  }
+  .statics__header {
+    font-size: 40px;
+    margin-top: 50px;
+  }
+  .statics__btn {
+    margin-top: 20px;
+  }
+  .templates__btn {
+    padding: 26px 35px;
+  }
+  .templates {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .dristibutions {
+    margin-left: 10px;
+    margin-bottom: 50px;
+  }
+  .dristibutions__header {
+    font-size: 50px;
+    line-height: 140%;
+  }
+  .dristibutions_paragraph {
+    font-size: 18px;
+    line-height: 180%;
+    margin-top: 10px;
+  }
+  .dristibutions__btn {
+    margin-top: 20px;
+  }
+  /* statics End */
+  /* Build plan start */
+  .plansgeader__Monthly {
+    font-size: 25px;
+  }
+  .plansgeader__Yearly {
+    font-size: 25px;
+  }
+  .Plansheader__Heading {
+    font-size: 50px;
+    line-height: 140%;
+  }
+  .plans {
+    margin-bottom: 70px;
+  }
+  .planspro {
+    margin-bottom: 70px;
+  }
+  .plans--exclusive {
+    margin-bottom: 50px;
+  }
+  .plans__heading {
+    padding-bottom: 15px;
+  }
+  .plans__name {
+    font-size: 20px;
+  }
+  .plans__limits {
+    font-size: 20px;
+  }
+  .plans__btn {
+    padding: 20px 45px;
+  }
+  .buildpart__header {
+    font-size: 35px;
+    line-height: 120%;
+    margin-bottom: 40px;
+  }
+  /* Build plan end */
+  /* custom plans */
+  .description {
+    padding-left: 10px;
+  }
+  .description_Jonathon {
+    font-size: 35px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+  }
+  .description__icons {
+    width: 30%;
+  }
+  .description_btn {
+    width: 40%;
+    margin-top: 55px;
+  }
+  .Freetrial {
+    margin: 50px 0;
+  }
+  .Freetrial__header {
+    font-size: 50px;
+    line-height: 140%;
+  }
+  .Freetrial__unorderlist {
+    width: 100%;
+  }
+  .Freetrial__list {
+    font-size: 20px;
+  }
+  .Freetrial__emailbox {
+    padding: 24px 15px 24px 10px;
+  }
+  .Freetrial__submit {
+    margin-left: 5px;
+  }
+  /* custom plans end */
+  /* footer */
+  #footer {
+    padding-top: 70px;
+  }
+  .foooter__peragraph {
+    font-size: 18px;
+    line-height: 180%;
+    margin-top: 30px;
+  }
+  .footerright__list:first-child {
+    font-size: 24px;
+    padding-right: 48px;
+  }
+  .footerright__list {
+    font-size: 20px;
+  }
+  .allreserved__header {
+    font-size: 13px;
+  }
+  .privacy__heading {
+    font-size: 13px;
+  }
+  /* footer */
+}
+@media (max-width: 575px) {
+  /* Navbar */
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .nav-item {
+    font-size: 16px;
+  }
+  .nav_buttons button {
+    padding: 10px 28px;
+  }
+  .nav-item {
+    justify-content: center;
+  }
+  .nav-item {
+    padding-right: 0;
+  }
+  /* navber end */
+  /* banner start */
+  .Banner__Header {
+    font-size: 33px;
+    margin-top: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+  }
+  .Banner__Paragraph {
+    font-size: 15px;
+    padding-right: 20px;
+  }
+  .Banner__box {
+    font-size: 16px;
+    padding: 37px 0px 37px 10px;
+  }
+  .Banner__Singup {
+    padding: 20px 5px;
+    font-size: 16px;
+    right: 20%;
+  }
+  .Banner--margin {
+    margin-top: 20px;
+  }
+  #Banner__section {
+    margin-bottom: 20px;
+  }
+  /* banner end */
+  .Company--Padding {
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  /* tools start */
+  .ToolsPart__Header {
+    font-size: 30px;
+    line-height: 120%;
+    margin-right: 0;
+    text-align: center;
+  }
+  .ToolsPart__Paragraph {
+    font-size: 14px;
+    line-height: 130%;
+  }
+  .DailyAlarms {
+    margin-top: 30px;
+  }
+  .ArchiveContent {
+    margin-bottom: 0px;
+  }
+  .DailyAlarms__heading {
+    font-size: 20px;
+    margin-left: 5px;
+  }
+  .DailyAlarms__paragraph {
+    font-size: 16px;
+    line-height: 25px;
+    padding: 16px 10px 24px 24px;
+  }
+  /*  tools end=============================== */
+  /* statics start */
+  .statics {
+    margin-left: 10px;
+    margin-bottom: 20px;
+  }
+  .Statics--margin {
+    margin-left: 5px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  .statics__header {
+    font-size: 35px;
+    margin-top: 20px;
+  }
+  .statics__btn {
+    margin-top: 20px;
+  }
+  .templates__btn {
+    padding: 26px 35px;
+  }
+  .templates {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .dristibutions {
+    margin-left: 10px;
+    margin-bottom: 50px;
+  }
+  .dristibutions__header {
+    font-size: 35px;
+    line-height: 120%;
+  }
+  .dristibutions_paragraph {
+    font-size: 16px;
+    line-height: 150%;
+    margin-top: 10px;
+  }
+  .dristibutions__btn {
+    margin-top: 20px;
+  }
+  /* statics End */
+  /* Build plan start */
+  .plansgeader__Monthly {
+    font-size: 25px;
+  }
+  .plansgeader__Yearly {
+    font-size: 25px;
+  }
+  .Plansheader__Heading {
+    font-size: 35px;
+    line-height: 120%;
+  }
+  .plans {
+    margin-bottom: 70px;
+  }
+  .planspro {
+    margin-bottom: 70px;
+  }
+  .plans--exclusive {
+    margin-bottom: 50px;
+  }
+  .plans__heading {
+    padding-bottom: 15px;
+  }
+  .plans__name {
+    font-size: 14px;
+  }
+  .plans__limits {
+    font-size: 14px;
+    padding-top: 3px;
+  }
+  .plans__btn {
+    padding: 20px 45px;
+  }
+  .buildpart__header {
+    font-size: 35px;
+    line-height: 120%;
+    margin-bottom: 40px;
+  }
+  /* Build plan end */
+  /* custom plans */
+  .description {
+    padding-left: 10px;
+  }
+  .description_Jonathon {
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .description__icons {
+    width: 50%;
+  }
+  .description_btn {
+    width: 50%;
+    margin-top: 40px;
+  }
+  .Freetrial {
+    margin: 50px 0;
+  }
+  .Freetrial__header {
+    font-size: 35px;
+    line-height: 120%;
+  }
+  .Freetrial__unorderlist {
+    width: 100%;
+  }
+  .Freetrial__list {
+    font-size: 13px;
+  }
+  .Freetrial__emailbox {
+    padding: 24px 10px 24px 10px;
+  }
+  .Freetrial__submit {
+    margin-left: 5px;
+  }
+  /* custom plans end */
+  /* footer */
+  #footer {
+    padding-top: 70px;
+  }
+  .foooter__peragraph {
+    font-size: 16px;
+    line-height: 150%;
+    margin-top: 30px;
+  }
+  .footerright__list:first-child {
+    font-size: 18px;
+    padding-right: 15px;
+  }
+  .footerright__list {
+    font-size: 14px;
+  }
+  .allreserved__header {
+    font-size: 13px;
+  }
+  .privacy__heading {
+    font-size: 13px;
+  }
+  /* footer */
+}
